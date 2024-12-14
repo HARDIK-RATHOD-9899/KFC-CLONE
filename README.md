@@ -2,7 +2,7 @@
 This project is a web application that mimics the KFC menu and ordering experience. It features a variety of pages including a menu, cart, and user authentication, all built with React and Redux.
 
 ## 🚀 Demo
-A live demo of the application can be found [here](#).
+A live demo of the application can be found [(https://kfc-clone-sigma.vercel.app/)]
 
 
 ## 🛠️ Technologies Used
