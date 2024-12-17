@@ -34,14 +34,6 @@ A live demo of the application can be found [(https://kfc-clone-sigma.vercel.app
 
 To use the application, simply navigate through the menu, add items to your cart, and proceed to checkout. 
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Create a Pull Request
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
