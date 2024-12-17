@@ -4,6 +4,15 @@ This project is a web application that mimics the KFC menu and ordering experien
 ## 🚀 Demo
 A live demo of the application can be found [(https://kfc-clone-sigma.vercel.app/)]
 
+![KFC-SS-1](https://github.com/user-attachments/assets/4497b71a-00b5-41b2-8edd-ad1720f2763c)
+
+![KFC-SS-2](https://github.com/user-attachments/assets/c7171874-3db6-4306-b724-525f7a3d1035)
+
+![KFC-SS-3](https://github.com/user-attachments/assets/e31a7a03-02a6-4b76-ac01-f3e64fea2284)
+
+![KFC-SS-4](https://github.com/user-attachments/assets/abe88be1-f6fd-4a3b-953b-06d09fd2aa68)
+
+![KFC-SS-5](https://github.com/user-attachments/assets/21fd412d-83f0-4606-877a-25eabcf941dc)
 
 ## 🛠️ Technologies Used
 
