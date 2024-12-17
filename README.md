@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 ## 👥 Authors
 
-- Your Name - [GitHub Profile](https://github.com/yourusername)
+- Your Name - [Hardik-rathod](https://github.com/HARDIK-RATHOD-9899)
 
 ## 🙏 Acknowledgments
 
