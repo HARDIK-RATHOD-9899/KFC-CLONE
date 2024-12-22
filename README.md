@@ -41,11 +41,7 @@ A live demo of the application can be found [(https://kfc-clone-sigma.vercel.app
 
 ## 💻 Usage
 
-To use the application, simply navigate through the menu, add items to your cart, and proceed to checkout. 
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+To use the application, simply navigate through the menu, go to the first option chicken menu add items to your cart, and proceed to checkout. 
 
 ## 👥 Authors
 
